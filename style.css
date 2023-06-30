@@ -17,7 +17,7 @@ body{
     display:inline-block;
 }
 h1{
-    font-family: 'Lobster', cursive;
+    font-family: 'Belanosima', sans-serif;
 margin:30px;
 font-size: 8rem;
   color: #4ECCA3;
@@ -25,8 +25,9 @@ text-shadow:4px 0px orange ;
 }
 p{
     font-size: 2rem;
-    font-family: sans-serif;
-    color: orange;
+    font-family: 'Poppins', sans-serif;   
+     color:darkblue;
+    text-shadow: 2px 0px #4ECCA3;
 }
 img{
     width:80%;
@@ -34,17 +35,10 @@ img{
 .refresh-btn
 {
     background-color: chocolate;
-    margin : auto;
-    width:100px;
-    height : 100px ;
-    padding : 40px 8px;
+    width:60px;
+    height : 60px ;
     border :2px solid aqua;
     border-radius: 50%;
-    display :flex;
-    justify-content: center;
-    position: fixed;
-    top:350px;
-    right : 250px;
 }
 .refresh-btn:hover{
     background-color: white;
