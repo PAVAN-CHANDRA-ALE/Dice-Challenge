@@ -1,3 +1,4 @@
+
 *{
     margin:0px;
     padding:0px;
@@ -31,12 +32,13 @@ p{
 }
 img{
     width:80%;
-} 
+}
 .refresh-button {
     display : flex ;
     justify-content: center;
     align-items: center;
 }
+
 .refresh-btn
 {
     background-color: chocolate;
